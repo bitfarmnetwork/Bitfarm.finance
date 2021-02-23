@@ -72,24 +72,11 @@ February 11, 2021
            --><button id="_embed_button"></button>
             </div>
           </div>
-          <aside class="tl_article_buttons">
-            <div class="account account_top"></div>
-            <button id="_edit_button" class="button edit_button">Edit</button><!--
-         --><button id="_publish_button" class="button publish_button">Publish</button>
-            <div class="account account_bottom"></div>
-            <div id="_error_msg" class="error_msg"></div>
+       
           </aside>
         </main>
       </div>
     </div>
-    <div id="_tl_alerts" class="tl_alerts"></div>
-    <script>var T={"apiUrl":"https:\/\/edit.telegra.ph","datetime":1612992223,"pageId":"6bfcd2ff03bc23119244d"};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
-    <script src="/js/jquery.min.js"></script>
-    <script src="/js/jquery.selection.min.js"></script>
-    <script src="/js/autosize.min.js"></script>
-    <script src="/js/load-image.all.min.js?1"></script>
-    <script src="/js/quill.min.js?9"></script>
-    <script src="/js/core.min.js?60"></script>
-    <script async src="https://t.me/_websync_?path=brief-of-project-02-10&hash=61b3254af428156c22"></script>
+   
   </body>
 </html>
